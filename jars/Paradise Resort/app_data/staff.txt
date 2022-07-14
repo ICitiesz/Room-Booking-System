@@ -1,0 +1,5 @@
+ST001;admin;admin@123
+ST002;ICities;ICities@123
+ST003;aaron;test@123
+ST004;july;test@123
+ST005;cherry;test@123

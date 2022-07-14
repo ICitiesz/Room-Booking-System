@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact name="Room-Booking-System:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Room_Booking_System_jar</output-path>
+    <root id="root">
+      <element id="archive" name="Room-Booking-System.jar">
+        <element id="module-output" name="Room-Booking-System" />
+        <element id="library" level="project" name="KControls-2.0" />
+        <element id="library" level="project" name="LGoodDatePicker-11.2.1" />
+      </element>
+    </root>
+  </artifact>
+</component>
